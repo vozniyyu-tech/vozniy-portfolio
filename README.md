@@ -7,7 +7,7 @@
 На сайті представлено мої навички, навчальні проєкти та підхід до роботи
 з технічною документацією.
 
-![Фото]![photo jpg](https://github.com/user-attachments/assets/795c12b6-cf77-4175-9212-163bacd2b0ba)
+[photo jpg](https://github.com/user-attachments/assets/795c12b6-cf77-4175-9212-163bacd2b0ba)
 
 
 ## Розділи
