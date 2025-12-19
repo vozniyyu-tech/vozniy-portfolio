@@ -10,5 +10,6 @@
 
 ## UML Use Case діаграма
 
-![Use Case](images/usecase.png)
+![Use Case]<img width="903" height="401" alt="{26B7D217-29E0-4F1F-AC01-F6EDD00652B6}" src="https://github.com/user-attachments/assets/f54eda1c-f4df-40c2-bc8c-64e523d5d1ec" />
+
 
