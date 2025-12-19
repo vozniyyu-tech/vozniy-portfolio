@@ -14,5 +14,6 @@
 
 Нижче наведено таблицю, створену в MS Excel.
 
-![Excel](images/excel.png)
+![Excel]<img width="506" height="145" alt="{AC322C80-55D7-4B1E-8795-3E998D6B4B49}" src="https://github.com/user-attachments/assets/046e71ba-ca0e-4948-a832-0d46b6ba21f7" />
+
 
