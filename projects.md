@@ -9,7 +9,8 @@
 GitHub, Markdown, diagrams.net
 
 ### Блок-схема роботи
-![Diagram](images/diagram.png)
+![Diagram]<img width="432" height="656" alt="image" src="https://github.com/user-attachments/assets/d858390f-b955-43f4-8681-08c5109cb977" />
+
 
 ---
 
